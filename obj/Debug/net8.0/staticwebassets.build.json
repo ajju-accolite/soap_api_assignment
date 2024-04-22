@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+VRFOrrSPrfSNBycqBeidRX88GOlp6V1s/TAvKOY7Y0=",
+  "Source": "soap_api_calc",
+  "BasePath": "_content/soap_api_calc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
